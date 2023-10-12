@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-51967c9c","path":"/article/springs/D-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/","title":"D 源码阅读","lang":"en-US","frontmatter":{"title":"D 源码阅读","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"gzw"}}');export{e as data};

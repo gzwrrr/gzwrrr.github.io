@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b30bf2f6","path":"/tag/lua/","title":"lua Tag","lang":"en-US","frontmatter":{"title":"lua Tag","feed":false,"sitemap":false,"blog":{"type":"category","name":"lua","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":"","copyright":{"author":"gzw"}}');export{e as data};

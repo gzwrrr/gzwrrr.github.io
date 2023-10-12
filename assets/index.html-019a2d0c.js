@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-565573b9","path":"/article/android/C-Jetpack/","title":"C Jetpack","lang":"en-US","frontmatter":{"title":"C Jetpack","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"gzw"}}');export{e as data};

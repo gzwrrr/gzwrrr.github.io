@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7bef3aca","path":"/article/java/C-Java%E5%B9%B6%E5%8F%91/","title":"C Java并发","lang":"en-US","frontmatter":{"title":"C Java并发","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"gzw"}}');export{a as data};

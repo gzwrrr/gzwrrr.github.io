@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0aa28368","path":"/article/other/A-%E9%80%9A%E7%94%A8/","title":"A 通用","lang":"en-US","frontmatter":{"title":"A 通用","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"gzw"}}');export{e as data};

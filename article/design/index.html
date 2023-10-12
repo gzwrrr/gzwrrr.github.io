@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-US" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-beta.60" />
+    <meta name="theme" content="VuePress Theme Hope" />
+    <link rel="icon" href="/logo.png"><title>设计模式</title><meta name="description" content="">
+    <style>
+      :root {
+        --bg-color: #fff;
+      }
+
+      html[data-theme="dark"] {
+        --bg-color: #1d1e1f;
+      }
+
+      html,
+      body {
+        background: var(--bg-color);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem("vuepress-theme-hope-scheme");
+      const systemDarkMode =
+        window.matchMedia &&
+        window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+      if (userMode === "dark" || (userMode !== "light" && systemDarkMode)) {
+        document.querySelector("html").setAttribute("data-theme", "dark");
+      }
+    </script>
+    <link rel="preload" href="/assets/style-147a9b29.css" as="style"><link rel="stylesheet" href="/assets/style-147a9b29.css">
+    <link rel="modulepreload" href="/assets/app-8ed57a9a.js"><link rel="modulepreload" href="/assets/preload-helper-101896b7.js"><link rel="modulepreload" href="/assets/framework-d7e1aa10.js"><link rel="modulepreload" href="/assets/index.html-6543a520.js"><link rel="modulepreload" href="/assets/index.html-10ab7b2f.js">
+  </head>
+  <body>
+    <div id="app"><!--[--><!----><!----><!----><!--]--></div>
+    <script type="module" src="/assets/app-8ed57a9a.js" defer></script>
+  </body>
+</html>

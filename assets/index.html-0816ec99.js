@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b30ea152","path":"/tag/k8s/","title":"K8S Tag","lang":"en-US","frontmatter":{"title":"K8S Tag","feed":false,"sitemap":false,"blog":{"type":"category","name":"K8S","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":"","copyright":{"author":"gzw"}}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ac262994","path":"/article/other/B-%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B/","title":"B 技术选型","lang":"en-US","frontmatter":{"title":"B 技术选型","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"gzw"}}');export{e as data};

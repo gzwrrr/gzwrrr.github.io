@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6e218ae0","path":"/article/other/Z-Windows/","title":"Z Windows","lang":"en-US","frontmatter":{"title":"Z Windows","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"gzw"}}');export{e as data};

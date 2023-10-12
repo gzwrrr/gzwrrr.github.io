@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-6d033b90","path":"/article/java/F-Java%E6%BA%90%E7%A0%81/","title":"F Java源码","lang":"en-US","frontmatter":{"title":"F Java源码","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"gzw"}}');export{a as data};

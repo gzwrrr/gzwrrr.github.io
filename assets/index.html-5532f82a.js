@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2d0cc1c9","path":"/article/other/J-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/","title":"J 操作系统","lang":"en-US","frontmatter":{"title":"J 操作系统","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"gzw"}}');export{e as data};

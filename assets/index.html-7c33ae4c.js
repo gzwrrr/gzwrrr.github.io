@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d2bf7300","path":"/article/framework/%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/","title":"小知识点","lang":"en-US","frontmatter":{"title":"小知识点","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"gzw"}}');export{e as data};
